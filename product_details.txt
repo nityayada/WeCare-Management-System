@@ -1,0 +1,14 @@
+Vitamin C Serum,Garnier,198,200.0,France
+Skin Cleanser,Octaphil,101,200.0,Switzerland
+Sunscreen,Aqualogica,199,700.0,India
+Face Mask,L’Oreal,173,300.0,France
+Eye Cream,Neutrogena,90,800.0,USA
+Lip Balm,Maybelline,199,150.0,USA
+Exfoliator,St. Ives,100,400.0,UK
+Body Lotion,Vaseline,180,300.0,Netherlands
+Face Scrub,Himalaya,140,250.0,India
+Hand Cream,The Body Shop,160,350.0,UK
+Cleansing Oil,Dermalogica,95,900.0,USA
+Face Mist,Avene,250,500.0,France
+Foot Cream,Scholl,110,320.0,Australia
+Serum,The Ordinary,150,750.0,Canada
